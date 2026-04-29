@@ -57,7 +57,7 @@ This project was developed as part of learning **data analysis fundamentals usin
 8)  Author:
 
 **Saud Nawaz**
-📍 Peshawar, Pakistan
+📍 Shabqadar, Pakistan
 
 
 9)  Future Improvements:
